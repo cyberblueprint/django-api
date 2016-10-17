@@ -1,0 +1,16 @@
+TODOS:
+- User accounts
+- Many to many field vs relationship
+	- On Upvote system
+	- On Users
+- Site registration
+
+Questions:
+1.- Site registration: Contrib.admin
+2.- Admin Accounts Registration: Crispy_forms
+3.- Adapters.py
+4.- Apps.py
+5.- Urls.py
+6.- Views.py
+7.- Celery vs Cronjob
+8.- Redis installation
